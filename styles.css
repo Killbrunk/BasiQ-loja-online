@@ -1,0 +1,22 @@
+.cabecalho{
+
+    display: flex;
+    flex-direction:row;
+}
+
+.titulo-site{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.atalhos-usuario{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.imagens-atalho{
+
+    height: 20%;
+}
